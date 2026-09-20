@@ -16,7 +16,7 @@ const casos: Credenciales[] = [
   { usuario: "", clave: "secret_sauce" },
   { usuario: "standard_user", clave: "   " },
   { usuario: "standard_user", clave: "secret_sauce" },
-  { usuario: "standard_user", clave: "abc" },
+  { usuario: "standard_user", clave: "abcdef" },
 ];
 
 for (const caso of casos) {
